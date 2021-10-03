@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941819251613",
+    "project_id": "mychatapp-1e2e6",
+    "storage_bucket": "mychatapp-1e2e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941819251613:android:5bf462022919465489bd74",
+        "android_client_info": {
+          "package_name": "com.tejaswi.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941819251613-nc5r279epkd4skkuipc18dqfl60a8ao1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnBYF3ZkTjykTFoYWnPcHrBCOfeR6Vjr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941819251613-nc5r279epkd4skkuipc18dqfl60a8ao1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
